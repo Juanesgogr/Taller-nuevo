@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Calculadora de Nómina</string>
+    <string name="estudiante_nombre">Estudiante: Juan Esteban González Granada</string>
+    <string name="salario_basico">Salario básico mensual</string>
+    <string name="horas_diurnas">Horas extra diurnas</string>
+    <string name="horas_nocturnas">Horas extra nocturnas</string>
+    <string name="switch_dominical">Horas extra en domingo o festivo</string>
+    <string name="switch_transporte">La empresa suministra el transporte</string>
+    <string name="boton_calcular">Calcular</string>
+    <string name="boton_limpiar">Limpiar</string>
+
+    <string name="rango_1_desc">Rango 1: Con derecho a auxilio de transporte</string>
+    <string name="rango_2_desc">Rango 2: Sin auxilio ni fondo de solidaridad</string>
+    <string name="rango_3_desc">Rango 3: Aporta al Fondo</string>
+</resources>
